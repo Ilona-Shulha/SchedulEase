@@ -4,12 +4,12 @@ import CalendarPage from "@/views/CalendarPage.vue";
 
 const routes = [
   {
-    path: '/',
+    path: '/SchedulEase/',
     name: 'Home',
     component: HomePage,
   },
   {
-    path: '/calendar',
+    path: '/SchedulEase/calendar',
     name: 'Calendar',
     component: CalendarPage,
   },
