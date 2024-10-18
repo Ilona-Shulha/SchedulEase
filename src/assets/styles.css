@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'SourceSansPro';
+  src: url('@/assets/fonts/SourceSansPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SourceSansPro';
+  src: url('@/assets/fonts/SourceSansPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'SourceSansPro', sans-serif;
+}
